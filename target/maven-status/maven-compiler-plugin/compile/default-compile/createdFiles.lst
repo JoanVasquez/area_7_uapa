@@ -1,0 +1,5 @@
+Main.class
+com/uapa/tareas/models/Product.class
+com/uapa/tareas/utils/HibernateUtil.class
+com/uapa/tareas/utils/GenerateReport.class
+com/uapa/tareas/service/ProductService.class
